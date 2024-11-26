@@ -1,0 +1,3 @@
+pip install streamlit langchain langchain-openai langchain-community beautifulsoup4 chromadb InstructorEmbedding faiss-cpu
+
+streamlit run src/app.py
